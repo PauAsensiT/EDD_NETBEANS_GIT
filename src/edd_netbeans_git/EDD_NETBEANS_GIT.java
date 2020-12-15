@@ -16,6 +16,7 @@ public class EDD_NETBEANS_GIT {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+            System.out.println("Acabet de clonar.");
     }
     
 }
